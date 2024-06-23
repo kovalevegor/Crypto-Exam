@@ -163,3 +163,19 @@ $$
 $$
 
 ---
+### Безоопасный генератор псевдослучайных чисел
+
+$G:\underbrace{\lbrace 0,1 \rbrace ^S}_{K}\to\lbrace 0,1 \rbrace ^n$
+
+$n\gg S$
+
+Пусть $n\in K=s^S$
+
+$$
+A: \space A(x)^{\lbrace 0,1 \rbrace ^n}=\begin\{cases}
+   0 &\text{if x - не случ; бесконечно малое G(k)} \\
+   1 &\text{if x - случ}
+\end{cases}
+$$
+
+---
