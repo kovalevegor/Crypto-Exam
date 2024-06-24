@@ -30,6 +30,10 @@ $$
 
 ### MD
 
+![image](https://github.com/kovalevegor/Crypto-Exam/assets/113568414/300b9a4b-a5b3-471e-9679-0ec31937dd80)
+
+<br>
+
 ![image](https://github.com/kovalevegor/Crypto-Exam/assets/113568414/fdbb8d82-68ae-4f06-8f0b-3937a8e0694c)
 
 
